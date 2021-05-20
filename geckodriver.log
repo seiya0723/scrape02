@@ -1,0 +1,81 @@
+1621475895242	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8srOrFwiwF6X"
+1621475895518	Marionette	INFO	Marionette enabled
+1621475896908	Marionette	INFO	Listening on port 33609
+1621475896987	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: , line 0: uncaught exception: Object
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+JavaScript error: moz-extension://73c0f48e-cdfc-4d99-b827-ff117ab2b186/rea/common.js, line 4: Error: Promised response from onMessage listener went out of scope
+1621475916977	Marionette	INFO	Stopped listening on port 33609
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621475947558	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.b0QNeWKhrOkh"
+1621475947829	Marionette	INFO	Marionette enabled
+1621475949236	Marionette	INFO	Listening on port 45265
+1621475949296	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+JavaScript error: moz-extension://73c0f48e-cdfc-4d99-b827-ff117ab2b186/rea/common.js, line 4: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://73c0f48e-cdfc-4d99-b827-ff117ab2b186/rea/common.js, line 4: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://73c0f48e-cdfc-4d99-b827-ff117ab2b186/rea/common.js, line 4: Error: Promised response from onMessage listener went out of scope
+1621475994119	Marionette	INFO	Stopped listening on port 45265
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621476072961	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0lRc0th4WVbT"
+1621476073237	Marionette	INFO	Marionette enabled
+1621476074547	Marionette	INFO	Listening on port 45105
+1621476074630	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+JavaScript error: moz-extension://73c0f48e-cdfc-4d99-b827-ff117ab2b186/rea/common.js, line 4: Error: Promised response from onMessage listener went out of scope
+1621476083543	Marionette	INFO	Stopped listening on port 45105
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621476419432	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3PijCc4d541j"
+1621476419709	Marionette	INFO	Marionette enabled
+1621476421306	Marionette	INFO	Listening on port 43665
+1621476421372	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+1621476421681	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: moz-extension://73c0f48e-cdfc-4d99-b827-ff117ab2b186/rea/common.js, line 4: Error: Promised response from onMessage listener went out of scope
+1621476437699	Marionette	INFO	Stopped listening on port 43665
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621480739881	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3KktCW3uyNvz"
+1621480740152	Marionette	INFO	Marionette enabled
+1621480741583	Marionette	INFO	Listening on port 33557
+1621480741650	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm, line 215: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 571: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: , line 0: uncaught exception: Object
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+JavaScript error: moz-extension://73c0f48e-cdfc-4d99-b827-ff117ab2b186/rea/common.js, line 4: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://73c0f48e-cdfc-4d99-b827-ff117ab2b186/rea/common.js, line 4: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://73c0f48e-cdfc-4d99-b827-ff117ab2b186/rea/common.js, line 4: Error: Promised response from onMessage listener went out of scope
+1621480777960	Marionette	INFO	Stopped listening on port 33557
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
